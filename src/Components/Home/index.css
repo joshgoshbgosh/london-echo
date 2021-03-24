@@ -1,9 +1,4 @@
-body {
-  background-image: url('./../../images/studio8.jpg');
-  background-position:top;
-  background-size:  cover;
-  background-repeat: no-repeat;
-  overflow: hidden;
+.topdiv > img{
   width: 100%;
   height: auto;
 }

@@ -15,7 +15,10 @@ class Home extends Component {
   return (
 
     <div>
-    
+      <div className="topdiv">
+        <img src={studio8}/>
+      </div>
+
     </div>
   );
 }

@@ -13,7 +13,7 @@ class Footer extends Component {
   return (
 
     <div>
-      <div classname="designbyjosh">
+      <div className="designbyjosh">
         <p>Designed By Josh Lanier</p>
       </div>
     </div>

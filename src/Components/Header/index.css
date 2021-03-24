@@ -1,0 +1,14 @@
+.navdiv {
+  position: fixed;
+  display: flex;
+  color: white;
+  justify-content: space-around;
+}
+.navphoto {
+
+}
+.atags {
+  display: flex;
+  justify-content: space-around;
+
+}
