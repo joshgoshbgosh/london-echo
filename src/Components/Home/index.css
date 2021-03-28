@@ -1,4 +1,96 @@
-.topdiv > img{
-  width: 100%;
-  height: auto;
+.topdiv{
+
+  background-image: url("./../../images/studio8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 500px;
+
+}
+.topdiv > img {
+  width: 300px;
+  margin-left: 15%;
+  margin-top: 10%;
+  }
+
+.aboutdiv {
+  background-image: url("./../../images/studio3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 500px;
+
+}
+.space {
+  height: 150px;
+}
+.aboutp {
+  color: white;
+  background-color: black;
+  border: solid;
+  border-color: white;
+  border-width: thick;
+  width: 50%;
+  padding: 5%;
+  line-height: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: relative;
+  top:15%;
+  left:10%;
+
+}
+.phantogram {
+  background-color: white;
+  width:400px;
+}
+.phantogram > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+ .phantogram > p{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  letter-spacing: 4px;
+  padding-top: 4px;
+}
+.paperroute{
+  background-color: white;
+  width:400px;
+}
+.paperroute > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.paperroute > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 23px;
+}
+.tears{
+  background-color: white;
+  width:400px;
+}
+.tears > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.tears > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+}
+.firstrow {
+  display: flex;
+  justify-content: space-around;
 }

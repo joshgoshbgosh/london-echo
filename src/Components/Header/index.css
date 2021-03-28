@@ -1,14 +1,38 @@
-.navdiv {
-  position: fixed;
-  display: flex;
-  color: white;
-  justify-content: space-around;
-}
-.navphoto {
 
-}
+
 .atags {
   display: flex;
+  width: 100%;
   justify-content: space-around;
+  color: white;
+  letter-spacing: 10px;
+  font-weight: 100;
+  margin-top: 85px;
+  position: fixed;
 
+
+}
+.about {
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  padding-left: 6px;
+}
+.bands {
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  padding-left: 6px;
+}
+.gear {
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  padding-left: 6px;
+}
+.contact {
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  padding-left: 6px;
 }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import londonecho from './../../images/londonecho.png';
+
 import "./index.css"
 
 class Header extends Component {
@@ -13,25 +13,25 @@ class Header extends Component {
 
   return (
     <div>
-      <div className="navdiv">
-        <div>
-          <img className="navphoto"src={londonecho}/>
-        </div>
+
+
+
         <div className="atags">
-        <div>
+        <div className="about">
           <a>About</a>
         </div>
-        <div>
+        <div className="bands">
           <a>Bands</a>
         </div>
-        <div>
+        <div className="gear">
           <a>Gear</a>
         </div>
-        <div>
+        <div className="contact">
           <a>Contact</a>
         </div>
         </div>
-      </div>
+
+
     </div>
   );
 }
