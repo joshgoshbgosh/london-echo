@@ -93,4 +93,395 @@
 .firstrow {
   display: flex;
   justify-content: space-around;
+}.afi{
+  background-color: white;
+  width:400px;
 }
+.afi > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.afi > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 1%;
+}
+.asilent{
+  background-color: white;
+  width:400px;
+}
+.asilent > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.asilent > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+}
+.bandhorses{
+  background-color: white;
+  width:400px;
+}
+.bandhorses > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.bandhorses > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+.secondrow {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.avril{
+  background-color: white;
+  width:400px;
+}
+.avril > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.avril > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 14%;
+}
+.bush{
+  background-color: white;
+  width:400px;
+}
+.bush > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.bush > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 14%;
+}
+.fuel{
+  background-color: white;
+  width:400px;
+}
+.fuel > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.fuel > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+.thirdrow {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.threeeleven{
+  background-color: white;
+  width:400px;
+}
+.threeeleven > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.threeeleven > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 9%;
+}
+.gavin{
+  background-color: white;
+  width:400px;
+}
+.gavin > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.gavin > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 9%;
+}
+.blondie{
+  background-color: white;
+  width:400px;
+}
+.blondie > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.blondie > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+.fourthrow {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.blink{
+  background-color: white;
+  width:400px;
+}
+.blink > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.blink > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 12%;
+}
+.cplay{
+  background-color: white;
+  width:400px;
+}
+.cplay > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.cplay > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 13%;
+}
+.allamerireje{
+  background-color: white;
+  width:400px;
+}
+.allamerireje > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.allamerireje > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+
+.fifthrow {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.sixrow {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.deftones{
+  background-color: white;
+  width:400px;
+}
+.deftones > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.deftones > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 16%;
+}
+.guanoapes{
+  background-color: white;
+  width:400px;
+}
+.guanoapes > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.guanoapes > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+.jackjohnson{
+  background-color: white;
+  width:400px;
+}
+.jackjohnson > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.jackjohnson > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+ margin-top: 5%;
+}
+.london{
+  background-color: white;
+  width:400px;
+}
+.london > img {
+  width: 380px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.london > p {
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 20px;
+   letter-spacing: 4px;
+   padding-top: 4px;
+   margin-top: 9%;
+  }
+  .madonna{
+    background-color: white;
+    width:400px;
+  }
+  .madonna > img {
+    width: 380px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .madonna > p {
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 20px;
+     letter-spacing: 4px;
+     padding-top: 4px;
+     margin-top: 5%;
+    }
+    .mute{
+      background-color: white;
+      width:400px;
+    }
+    .mute > img {
+      width: 380px;
+      margin-left: 10px;
+      margin-top: 10px;
+    }
+    .mute > p {
+       text-align: center;
+       font-family: sans-serif;
+       font-size: 20px;
+       letter-spacing: 4px;
+       padding-top: 4px;
+       margin-top: 9%;
+      }
+      .sevenrow {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5%;
+      }
+      .eightrow {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5%;
+      }
+      .papar{
+        background-color: white;
+        width:400px;
+      }
+      .papar > img {
+        width: 380px;
+        margin-left: 10px;
+        margin-top: 10px;
+      }
+      .papar > p {
+         text-align: center;
+         font-family: sans-serif;
+         font-size: 20px;
+         letter-spacing: 4px;
+         padding-top: 4px;
+         margin-top: 5%;
+        }
+        .utwo{
+          background-color: white;
+          width:400px;
+        }
+        .utwo > img {
+          width: 380px;
+          margin-left: 10px;
+          margin-top: 10px;
+        }
+        .utwo > p {
+           text-align: center;
+           font-family: sans-serif;
+           font-size: 20px;
+           letter-spacing: 4px;
+           padding-top: 4px;
+           margin-top: 19%;
+          }
+          .paramore{
+            background-color: white;
+            width:400px;
+          }
+          .paramore > img {
+            width: 380px;
+            margin-left: 10px;
+            margin-top: 10px;
+          }
+          .paramore > p {
+             text-align: center;
+             font-family: sans-serif;
+             font-size: 20px;
+             letter-spacing: 4px;
+             padding-top: 4px;
+             margin-top: 21%;
+            }
