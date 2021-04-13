@@ -42,6 +42,23 @@
   left:10%;
 
 }
+.mobilephantogram {
+  background-color: white;
+  width: 90%;
+
+}
+.mobilephantogram > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilephantogram > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ padding-top: 4px;
+}
 .phantogram {
   background-color: white;
   width:400px;
@@ -471,6 +488,7 @@
           .paramore{
             background-color: white;
             width:400px;
+
           }
           .paramore > img {
             width: 380px;
@@ -485,3 +503,136 @@
              padding-top: 4px;
              margin-top: 21%;
             }
+            .gearheader {
+              background-image: url("./../../images/studio7.jpg");
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              height: 500px;
+              border: solid;
+              border-color: white;
+              display: flex;
+              justify-content: space-between;
+
+            }
+            .gearpic {
+              width: 250px;
+              margin-left: 20%;
+              margin-top: 20%;
+              transform: rotate(340deg);
+            }
+            li {
+              color: white;
+font-family: sans-serif;
+            }
+            ul {
+              margin-right: 20%;
+              padding-top: 4%;
+
+            }
+            .contactform {
+  margin-left: 60px;
+}
+input:focus {outline:0;}
+
+button:focus {outline:0;}
+.message-box {
+  padding-bottom: 70px;
+  margin-top: 20px;
+}
+button {
+  background-color: black;
+  color: white;
+
+}
+.infodiv{
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+
+}
+.input-box {
+  margin-top: 20px;
+}
+.the-button {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.the-button:focus {outline:0;}
+input {
+  width: 400px;
+
+}
+.contactdiv {
+  background-image: url("./../../images/studio9.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: solid;
+  border-color: white;
+  height: 400px;
+  display:flex;
+
+}
+.session {
+  font-size: 55px;
+  color: white;
+  font-weight: 100;
+  letter-spacing: 5px;
+  margin-left: 17%;
+  margin-top: 12%;
+}
+.mobileaboutp {
+  position: relative;
+  top: -12.6%;
+  left: 26%;
+  width: 70%;
+  line-height: 27px;
+  background-color: black;
+  color: white;
+  border: solid;
+  padding:5%;
+
+}
+.mobileaboutlabel {
+  font-size: 40px;
+  position: relative;
+  right:40%;
+  top: 30%;
+  letter-spacing: 20px;
+  color: #FFC107;
+  font-weight: 300;
+  transform: rotate(270.2deg);
+}
+.mobile-contactform {
+  width: 100%;
+  margin-top: 20%;
+}
+.mobile-input-box {
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  border-top:none;
+  border-left: none;
+  border-right: none;
+
+}
+.mobile-message-box {
+  margin-top: 5%;
+  width: 80%;
+  margin-left: 10%;
+  border-top:none;
+  border-left:none;
+  border-right: none;
+
+}
+.the-button {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.the-button:focus {outline:0;}
+
+.mobilegearlistdiv > ul{
+  font-size: 15px;
+
+}

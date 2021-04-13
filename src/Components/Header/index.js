@@ -16,20 +16,21 @@ class Header extends Component {
 
 
 
-        <div className="atags">
+        <div id="navigation"className="atags">
         <div className="about">
-          <a>About</a>
+          <span className="sec1"><a href="#sectionLink1">About</a></span>
         </div>
         <div className="bands">
-          <a>Bands</a>
+          <span><a href="#sectionLink2">Bands</a></span>
         </div>
         <div className="gear">
-          <a>Gear</a>
+          <span><a href="#sectionLink3">Gear</a></span>
         </div>
         <div className="contact">
-          <a>Contact</a>
+          <span><a href="#sectionLink4">Contact</a></span>
         </div>
         </div>
+
 
 
     </div>

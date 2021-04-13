@@ -5,34 +5,50 @@
   width: 100%;
   justify-content: space-around;
   color: white;
-  letter-spacing: 10px;
+  letter-spacing: 6px;
   font-weight: 100;
-  margin-top: 85px;
+  margin-top: 10%;
   position: fixed;
 
 
 }
+#navigation span a {
+  color: white;
+  font-size: 12px;
+}
+#navigation span a:hover{
+  text-decoration: none;
+}
+
 .about {
   border: solid;
   border-color: white;
   border-width: thin;
   padding-left: 6px;
+  padding-bottom: 2px;
+  color:white;
 }
 .bands {
   border: solid;
   border-color: white;
   border-width: thin;
   padding-left: 6px;
+  padding-bottom: 2px;
 }
 .gear {
   border: solid;
   border-color: white;
   border-width: thin;
   padding-left: 6px;
+  padding-bottom: 2px;
 }
 .contact {
   border: solid;
   border-color: white;
   border-width: thin;
   padding-left: 6px;
+  padding-bottom: 2px;
+}
+a {
+  color:white;
 }

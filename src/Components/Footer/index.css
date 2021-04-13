@@ -2,5 +2,15 @@
   color: white;
   letter-spacing: 3px;
   font-weight: 100;
+  font-size: 12px;
+  margin-top: 2%;
+text-align: right;
+  margin-right: 2%;
 
+}
+.notreal {
+  color:yellow;
+  margin-top: -30px;
+  margin-left: 2%;
+  font-size: 10px;
 }

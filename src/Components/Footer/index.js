@@ -14,8 +14,10 @@ class Footer extends Component {
 
     <div>
       <div className="designbyjosh">
-        <p>Designed By Josh Lanier</p>
+        <p className="design ">Designed By Josh Lanier</p>
+
       </div>
+      <p className="notreal ">SITE FOR DEMO ONLY</p>
     </div>
   );
 }
