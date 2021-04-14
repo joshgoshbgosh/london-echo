@@ -30,6 +30,7 @@ import cplay from './../../images/cplay.jpeg';
 import studio7 from './../../images/studio7.jpg';
 import gearlogo from './../../images/gearlogo.png';
 import contact from './../../images/contact.png';
+
 import './index.css';
 
 
@@ -80,6 +81,10 @@ class Home extends Component {
         <img className="logophoto "src={echologo2}/>
       </div>
       <div className="space">
+        <i class="fab fa-facebook-f d-block d-sm-none"></i>
+        <i class="fab fa-youtube d-block d-sm-none"></i>
+        <i class="fab fa-youtube d-block d-sm-none"></i>
+        <i class="fab fa-twitter d-block d-sm-none"></i>
       </div>
       <div id="content">
       <div id="section1">
@@ -107,11 +112,104 @@ class Home extends Component {
       </div>
       <div id="section2">
       <div className="banddiv">
+      <div className="mobilephantogram d-block d-sm-none">
+        <img src={phantogram}/>
+        <p>PHANTOGRAM</p>
+      </div>
+      <div className="mobilepaperroute d-block d-sm-none">
+        <img src={paperroute}/>
+        <p>PAPER ROUTE</p>
+      </div>
+      <div className="mobiletears d-block d-sm-none">
+        <img src={tforf}/>
+        <p>TEARS FOR FEARS</p>
+      </div>
+      <div className="mobileasilent d-block d-sm-none">
+        <img src={asilent}/>
+        <p>A SILENT FILM</p>
+      </div>
+      <div className="mobileafi d-block d-sm-none">
+        <img src={afi}/>
+        <p>AFI</p>
+      </div>
+      <div className="mobilebandhorses d-block d-sm-none">
+        <img src={bandhorses}/>
+        <p>BAND OF HORSES</p>
+      </div>
+      <div className="mobileavril d-block d-sm-none">
+        <img src={avrillavigne}/>
+        <p>AVRIL LAVIGNE</p>
+      </div>
+      <div className="mobilefuel d-block d-sm-none">
+        <img src={fuel}/>
+        <p>FUEL</p>
+      </div>
+      <div className="mobilebush d-block d-sm-none">
+        <img src={bush}/>
+        <p>BUSH</p>
+      </div>
+      <div className="mobilethreeeleven d-block d-sm-none">
+        <img src={threeeleven}/>
+        <p>311</p>
+      </div>
+      <div className="mobileblondie d-block d-sm-none">
+        <img src={blondie}/>
+        <p>BLONDIE</p>
+      </div>
+      <div className="mobilegavin d-block d-sm-none">
+        <img src={gavin}/>
+        <p>GAVIN DEGRAW</p>
+      </div>
+      <div className="mobileallamerirege d-block d-sm-none">
+        <img src={allamerireje}/>
+        <p>ALL AMERICAN REJECTS</p>
+      </div>
+      <div className="mobilecplay d-block d-sm-none">
+        <img src={cplay}/>
+        <p>COLDPLAY</p>
+      </div>
+      <div className="mobileblink d-block d-sm-none">
+        <img src={blink}/>
+        <p>BLINK 182</p>
+      </div>
+      <div className="mobiledeftones d-block d-sm-none">
+        <img src={deftones}/>
+        <p>DEFTONES</p>
+      </div>
+      <div className="mobileguanoapes d-block d-sm-none">
+        <img src={guanoapes}/>
+        <p>GUANO APES</p>
+      </div>
+      <div className="mobilejackjohnson d-block d-sm-none">
+        <img src={jackjohnson}/>
+        <p>JACK JOHNSON</p>
+      </div>
+      <div className="mobilelondon d-block d-sm-none">
+        <img src={london}/>
+        <p>LONDON GRAMMER</p>
+      </div>
+      <div className="mobilemadonna d-block d-sm-none">
+        <img src={madonna}/>
+        <p>MADONNA</p>
+      </div>
+      <div className="mobilemute d-block d-sm-none">
+        <img src={mutemath}/>
+        <p>MUTEMATH</p>
+      </div>
+      <div className="mobilepapar d-block d-sm-none">
+        <img src={papar}/>
+        <p>PAPA ROACH</p>
+      </div>
+      <div className="mobileparamore d-block d-sm-none">
+        <img src={paramore}/>
+        <p>PARAMORE</p>
+      </div>
+      <div className="mobileutwo d-block d-sm-none">
+        <img src={utwo}/>
+        <p>U2</p>
+      </div>
         <div className="firstrow ">
-        <div className="mobilephantogram d-block d-sm-none">
-          <img src={phantogram}/>
-          <p>PHANTOGRAM</p>
-        </div>
+
           <div className="phantogram d-none d-md-block">
             <img src={phantogram}/>
             <p>PHANTOGRAM</p>
@@ -120,6 +218,7 @@ class Home extends Component {
           <img src={paperroute}/>
           <p>PAPER ROUTE</p>
           </div>
+
           <div className="tears d-none d-md-block">
           <img src={tforf}/>
           <p>TEARS FOR FEARS</p>

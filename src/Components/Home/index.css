@@ -25,6 +25,8 @@
 }
 .space {
   height: 150px;
+  display: flex;
+  justify-content: space-around;
 }
 .aboutp {
   color: white;
@@ -45,6 +47,8 @@
 .mobilephantogram {
   background-color: white;
   width: 90%;
+  margin-left: 4.7%;
+  margin-top: -5%;
 
 }
 .mobilephantogram > img {
@@ -57,7 +61,426 @@
  font-family: sans-serif;
  font-size: 20px;
  letter-spacing: 4px;
- padding-top: 4px;
+ margin-top: 10px;
+}
+.mobilepaperroute {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilepaperroute > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilepaperroute > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobiletears {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobiletears > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobiletears > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileasilent {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileasilent > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileasilent > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileafi {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileafi > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileafi > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilebandhorses {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilebandhorses > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilebandhorses > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileavril {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileavril > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileavril > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilefuel {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilefuel > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilefuel > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilebush {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilebush > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilebush > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilethreeeleven {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilethreeeleven > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilethreeeleven > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileblondie {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileblondie > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileblondie > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilegavin {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilegavin > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilegavin > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileallamerirege {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileallamerirege > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileallamerirege > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilecplay {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilecplay > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilecplay > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileblink {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileblink > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileblink > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobiledeftones {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobiledeftones > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobiledeftones > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileguanoapes {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileguanoapes > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileguanoapes > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilejackjohnson {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilejackjohnson > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilejackjohnson > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilelondon {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilelondon > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilelondon > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilemadonna{
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilemadonna> img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilemadonna> p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilemute {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilemute > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilemute > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobilepapar {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobilepapar > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobilepapar > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileparamore {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+}
+.mobileparamore > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileparamore > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+.mobileutwo {
+  background-color: white;
+  width: 90%;
+  margin-left: 4.7%;
+  margin-top: 15%;
+  margin-bottom: -40%;
+}
+.mobileutwo > img {
+  width: 94%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.mobileutwo > p{
+ text-align: center;
+ font-family: sans-serif;
+ font-size: 20px;
+ letter-spacing: 4px;
+ margin-top: 10px;
+}
+i {
+  color: white;
+  margin-top: 15%;
 }
 .phantogram {
   background-color: white;
